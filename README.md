@@ -5,7 +5,9 @@
 
 ## 🚀 Overview
 
-This is a solution to the **Blog preview card** on [Frontend Mentor](https://www.frontendmentor.io). The goal was to build a simple and responsive Blog preview card using **HTML** and **CSS**, based on the provided design.
+- This is a solution to the **Blog preview card**.
+- The goal was to build a simple and responsive Blog preview card using **HTML** 
+- and **CSS**, based on the provided design.
 
 ## 🛠️ Built With
 
@@ -18,7 +20,7 @@ This is a solution to the **Blog preview card** on [Frontend Mentor](https://www
 
 | Desktop view | Mobile view |
 |--------------|-------------|
-| ![Desktop](images/desktop-design.png) | ![Mobile](images/mobile-design.png) |
+| ![Desktop](assets/images/desktop-design.png) | ![Mobile](assets/images/mobile-design.png) |
 
 ## 🧠 What I Learned
 
@@ -57,11 +59,11 @@ To view this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/karina-krupodior/QR-CODE-COMPONENT.git
+   git clone https://github.com/karina-krupodior/BlogPreviewCard.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd qr-code-component
+   cd blog-preview-card-main
    ```
 3. Open `index.html` in your browser.
 
