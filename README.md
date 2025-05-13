@@ -7,7 +7,7 @@
 
 - This is a solution to the **Blog preview card**.
 - The goal was to build a simple and responsive Blog preview card using **HTML** 
-- and **CSS**, based on the provided design.
+and **CSS**, based on the provided design.
 
 ## 🛠️ Built With
 
@@ -34,23 +34,23 @@ While building this project, I reinforced key front-end development concepts suc
 ## 📁 Folder Structure
 
 BLOG-PREVIEW-CARD/
-├── assets/
-│   ├── fonts/
-│   └── images/
+├── assets/                    # Static assets like fonts and images
+│   ├── fonts/                # Custom or third-party fonts
+│   └── images/              # Image files used in the project
 │       ├── desktop-design.png
 │       ├── favicon-32x32.png
 │       ├── illustration-article.svg
 │       ├── image-avatar.webp
-│       ├── mobile-design.png
-├── design/
+│       └── mobile-design.png
+├── design/                    # Design reference images
 │   ├── active-states.jpg
 │   ├── desktop-design.jpg
-│   ├── mobile-design.jpg
-├── .gitignore
-├── index.html
-├── preview.jpg
-├── README.md
-└── style-guide.md
+│   └── mobile-design.jpg
+├── .gitignore                 # Git ignore rules
+├── index.html                 # Main HTML file
+├── preview.jpg                # Project preview screenshot
+├── README.md                  # Project documentation
+└── style-guide.md             # Style guide provided with the project
 
 
 ## 🚀 Getting Started
@@ -69,7 +69,7 @@ To view this project locally:
 
 ## 🌐 Live Demo
 
-Check out the live site here: https://karina-krupodior.github.io/QR-CODE-COMPONENT/
+Check out the live site here: https://karina-krupodior.github.io/BlogPreviewCard/
 
 ## ✍️ Author
 
